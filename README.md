@@ -10,6 +10,9 @@
 <b>3. Login</b>
 ![main screen 1](https://github.com/MartMbithi/CRUD_Admin_Dashbaord/blob/master/3.png)
 
+<b>3. SweetAlerts 2</b>
+![main screen 1](https://github.com/MartMbithi/CRUD_Admin_Dashboard/blob/master/Task.png)
+
 
 
 
