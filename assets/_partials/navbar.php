@@ -60,8 +60,8 @@
                      </span>
                      </a>
                      <ul class="treeview-menu">
-                        <li><a href="rtask.html">Running Task</a></li>
-                        <li><a href="atask.html">Archive Task</a></li>
+                        <li><a href="rtask.php">Create Task</a></li>
+                        <li><a href="atask.php">Running Tasks</a></li>
                      </ul>
                   </li>
                   <li class="treeview">
@@ -72,9 +72,9 @@
                      </span>
                      </a>
                      <ul class="treeview-menu">
-                        <li><a href="cpayment.html">Client payment</a></li>
-                        <li><a href="emanage.html">Expense management</a></li>
-                        <li><a href="ecategory.html">Expense Category</a></li>
+                        <li><a href="cpayment.php">Client payment</a></li>
+                        <li><a href="emanage.php">Expense management</a></li>
+                        <li><a href="ecategory.php">Expense Category</a></li>
                      </ul>
                   </li>
                   <li class="treeview">
@@ -85,10 +85,10 @@
                      </span>
                      </a>
                      <ul class="treeview-menu">
-                        <li><a href="preport.html">Project Report</a></li>
-                        <li><a href="creport.html">Client Report</a></li>
-                        <li><a href="ereport.html">Expense Report</a></li>
-                        <li><a href="incomexp.html">Income expense comparesion</a></li>
+                        <li><a href="preport.php">Project Report</a></li>
+                        <li><a href="creport.php">Client Report</a></li>
+                        <li><a href="ereport.php">Expense Report</a></li>
+                        <li><a href="incomexp.php">Income expense comparesion</a></li>
                      </ul>
                   </li>
                   <li class="treeview">
@@ -99,9 +99,9 @@
                      </span>
                      </a>
                      <ul class="treeview-menu">
-                        <li><a href="thistory.html">Time History</a></li>
-                        <li><a href="timechange.html">Time Change Request</a></li>
-                        <li><a href="atreport.html">Attendance Report</a></li>
+                        <li><a href="thistory.php">Time History</a></li>
+                        <li><a href="timechange.php">Time Change Request</a></li>
+                        <li><a href="atreport.php">Attendance Report</a></li>
                      </ul>
                   </li>
                   <li class="treeview">
@@ -112,8 +112,8 @@
                      </span>
                      </a>
                      <ul class="treeview-menu">
-                        <li><a href="jpost.html">Jobs Posted</a></li>
-                        <li><a href="japp.html">Jobs Application</a></li>
+                        <li><a href="jpost.php">Jobs Posted</a></li>
+                        <li><a href="japp.php">Jobs Application</a></li>
                      </ul>
                   </li>
                   <li class="treeview">
@@ -124,13 +124,13 @@
                      </span>
                      </a>
                      <ul class="treeview-menu">
-                        <li><a href="salary.html">Salary Template</a></li>
-                        <li><a href="hourly.html">Hourly</a></li>
-                        <li><a href="managesal.html">Manage salary</a></li>
-                        <li><a href="empsallist.html">Employee salary list</a></li>
-                        <li><a href="mpayment.html">Make payment</a></li>
-                        <li><a href="generatepay.html">Generate payslip</a></li>
-                        <li><a href="paysum.html">Payroll summary</a></li>
+                        <li><a href="salary.php">Salary Template</a></li>
+                        <li><a href="hourly.php">Hourly</a></li>
+                        <li><a href="managesal.php">Manage salary</a></li>
+                        <li><a href="empsallist.php">Employee salary list</a></li>
+                        <li><a href="mpayment.php">Make payment</a></li>
+                        <li><a href="generatepay.php">Generate payslip</a></li>
+                        <li><a href="paysum.php">Payroll summary</a></li>
                      </ul>
                   </li>
                   <li class="treeview">
@@ -141,9 +141,9 @@
                      </span>
                      </a>
                      <ul class="treeview-menu">
-                        <li><a href="stockcat.html">Stock category</a></li>
-                        <li><a href="manstock.html">Manage Stock</a></li>
-                        <li><a href="astock.html">Assign stock</a></li>
+                        <li><a href="stockcat.php">Stock category</a></li>
+                        <li><a href="manstock.php">Manage Stock</a></li>
+                        <li><a href="astock.php">Assign stock</a></li>
                      </ul>
                   </li>
                   <li class="treeview">
@@ -154,11 +154,11 @@
                      </span>
                      </a>
                      <ul class="treeview-menu">
-                        <li><a href="ticanswer.html">Answered</a></li>
-                        <li><a href="ticopen.html">Open</a></li>
-                        <li><a href="iprocess.html">Inprocess</a></li>
-                        <li><a href="close.html">CLosed</a></li>
-                        <li><a href="allticket.html">All Tickets</a></li>
+                        <li><a href="ticanswer.php">Answered</a></li>
+                        <li><a href="ticopen.php">Open</a></li>
+                        <li><a href="iprocess.php">Inprocess</a></li>
+                        <li><a href="close.php">CLosed</a></li>
+                        <li><a href="allticket.php">All Tickets</a></li>
                      </ul>
                   </li>
                   <li class="treeview">
@@ -170,9 +170,9 @@
                      </span>
                      </a>
                      <ul class="treeview-menu">
-                        <li><a href="ativitylog.html">Activity Log</a></li>
-                        <li><a href="emailmes.html">Email message log</a></li>
-                        <li><a href="systemsts.html">System status</a></li>
+                        <li><a href="ativitylog.php">Activity Log</a></li>
+                        <li><a href="emailmes.php">Email message log</a></li>
+                        <li><a href="systemsts.php">System status</a></li>
                      </ul>
                   </li>
                   <li class="treeview">
@@ -183,10 +183,10 @@
                      </span>
                      </a>
                      <ul class="treeview-menu">
-                        <li class=""><a href="charts_flot.html">Flot Chart</a></li>
-                        <li><a href="charts_Js.html">Chart js</a></li>
-                        <li><a href="charts_morris.html">Morris Charts</a></li>
-                        <li><a href="charts_sparkline.html">Sparkline Charts</a></li>
+                        <li class=""><a href="charts_flot.php">Flot Chart</a></li>
+                        <li><a href="charts_Js.php">Chart js</a></li>
+                        <li><a href="charts_morris.php">Morris Charts</a></li>
+                        <li><a href="charts_sparkline.php">Sparkline Charts</a></li>
                      </ul>
                   </li>
                   <li class="treeview">
@@ -198,14 +198,14 @@
                      </span>
                      </a>
                      <ul class="treeview-menu">
-                        <li><a href="icons_bootstrap.html">Bootstrap Icons</a></li>
-                        <li><a href="icons_fontawesome.html">Fontawesome Icon</a></li>
-                        <li><a href="icons_flag.html">Flag Icons</a></li>
-                        <li><a href="icons_material.html">Material Icons</a></li>
-                        <li><a href="icons_weather.html">Weather Icons </a></li>
-                        <li><a href="icons_line.html">Line Icons</a></li>
-                        <li><a href="icons_pe.html">Pe Icons</a></li>
-                        <li><a href="icon_socicon.html">Socicon Icons</a></li>
+                        <li><a href="icons_bootstrap.php">Bootstrap Icons</a></li>
+                        <li><a href="icons_fontawesome.php">Fontawesome Icon</a></li>
+                        <li><a href="icons_flag.php">Flag Icons</a></li>
+                        <li><a href="icons_material.php">Material Icons</a></li>
+                        <li><a href="icons_weather.php">Weather Icons </a></li>
+                        <li><a href="icons_line.php">Line Icons</a></li>
+                        <li><a href="icons_pe.php">Pe Icons</a></li>
+                        <li><a href="icon_socicon.php">Socicon Icons</a></li>
                      </ul>
                   </li>
                   <li class="treeview">
@@ -216,14 +216,14 @@
                      </span>
                      </a>
                      <ul class="treeview-menu">
-                        <li><a href="login.html">Login</a></li>
-                        <li><a href="register.html">Register</a></li>
-                        <li><a href="profile.html">Profile</a></li>
-                        <li><a href="forget_password.html">Forget password</a></li>
-                        <li><a href="lockscreen.html">Lockscreen</a></li>
-                        <li><a href="404.html">404 Error</a></li>
-                        <li><a href="505.html">505 Error</a></li>
-                        <li><a href="blank.html">Blank Page</a></li>
+                        <li><a href="index.php">Login</a></li>
+                        <li><a href="register.php">Register</a></li>
+                        <li><a href="profile.php">Profile</a></li>
+                        <li><a href="forget_password.php">Forget password</a></li>
+                        <li><a href="lockscreen.php">Lockscreen</a></li>
+                        <li><a href="404.php">404 Error</a></li>
+                        <li><a href="505.php">505 Error</a></li>
+                        <li><a href="blank.php">Blank Page</a></li>
                      </ul>
                   </li>
                   <li class="treeview">
@@ -234,17 +234,17 @@
                      </span>
                      </a>
                      <ul class="treeview-menu">
-                        <li><a href="buttons.html">Buttons</a></li>
-                        <li><a href="tabs.html">Tabs</a></li>
-                        <li><a href="notification.html">Notification</a></li>
-                        <li><a href="tree-view.html">Tree View</a></li>
-                        <li><a href="progressbars.html">Progressber</a></li>
-                        <li><a href="list.html">List View</a></li>
-                        <li><a href="typography.html">Typography</a></li>
-                        <li><a href="panels.html">Panels</a></li>
-                        <li><a href="modals.html">Modals</a></li>
-                        <li><a href="icheck_toggle_pagination.html">iCheck, Toggle, Pagination</a></li>
-                        <li><a href="labels-badges-alerts.html">Labels, Badges, Alerts</a></li>
+                        <li><a href="buttons.php">Buttons</a></li>
+                        
+                        <li><a href="notification.php">Notification</a></li>
+                        <li><a href="tree-view.php">Tree View</a></li>
+                        <li><a href="progressbars.php">Progressber</a></li>
+                        <li><a href="list.php">List View</a></li>
+                        <li><a href="typography.php">Typography</a></li>
+                        <li><a href="panels.php">Panels</a></li>
+                        <li><a href="modals.php">Modals</a></li>
+                        <li><a href="icheck_toggle_pagination.php">iCheck, Toggle, Pagination</a></li>
+                        <li><a href="labels-badges-alerts.php">Labels, Badges, Alerts</a></li>
                      </ul>
                   </li>
                   <li class="treeview">
@@ -256,84 +256,84 @@
                      </span>
                      </a>
                      <ul class="treeview-menu">
-                        <li><a href="gsetting.html">Genaral settings</a></li>
-                        <li><a href="stfsetting.html">Staff settings</a></li>
-                        <li><a href="emailsetting.html">Email settings</a></li>
-                        <li><a href="paysetting.html">Payment</a></li>
+                        <li><a href="gsetting.php">Genaral settings</a></li>
+                        <li><a href="stfsetting.php">Staff settings</a></li>
+                        <li><a href="emailsetting.php">Email settings</a></li>
+                        <li><a href="paysetting.php">Payment</a></li>
                      </ul>
                   </li>
                   <li>
-                     <a href="company.html">
+                     <a href="company.php">
                      <i class="fa fa-home"></i> <span>Companies</span>
                      <span class="pull-right-container">
                      </span>
                      </a>
                   </li>
                   <li>
-                     <a href="holiday.html">
+                     <a href="holiday.php">
                      <i class="fa fa-stop-circle"></i> <span>Public Holiday</span>
                      <span class="pull-right-container">
                      </span>
                      </a>
                   </li>
                   <li>
-                     <a href="user.html">
+                     <a href="user.php">
                      <i class="fa fa-user-circle"></i><span>User</span>
                      <span class="pull-right-container">
                      </span>
                      </a>
                   </li>
                   <li>
-                     <a href="items.html">
+                     <a href="items.php">
                      <i class="fa fa-file-o"></i><span>Items</span>
                      <span class="pull-right-container">
                      </span>
                      </a>
                   </li>
                   <li>
-                     <a href="department.html">
+                     <a href="department.php">
                      <i class="fa fa-tree"></i><span>Departments</span>
                      <span class="pull-right-container">
                      </span>
                      </a>
                   </li>
                   <li>
-                     <a href="document.html">
+                     <a href="document.php">
                      <i class="fa fa-file-text"></i> <span>Documents</span>
                      <span class="pull-right-container">
                      </span>
                      </a>
                   </li>
                   <li>
-                     <a href="train.html">
+                     <a href="train.php">
                      <i class="fa fa-clock-o"></i><span>Training</span>
                      <span class="pull-right-container">
                      </span>
                      </a>
                   </li>
                   <li>
-                     <a href="calender.html">
+                     <a href="calender.php">
                      <i class="fa fa-calendar"></i> <span>Calender</span>
                      <span class="pull-right-container">
                      </span>
                      </a>
                   </li>
                   <li>
-                     <a href="notice.html">
+                     <a href="notice.php">
                      <i class="fa fa-file-text"></i> <span>Notice Board</span>
                      <span class="pull-right-container">
                      </span>
                      </a>
                   </li>
                   <li>
-                     <a href="message.html">
+                     <a href="message.php">
                      <i class="fa fa-envelope-o"></i> <span>Message</span>
                      <span class="pull-right-container">
                      </span>
                      </a>
                   </li>
                   <li>
-                     <a href="note.html">
+                     <a href="note.php">
                      <i class="fa fa-comment"></i> <span>Notes</span>
                      <span class="pull-right-container">
                      </span>
